@@ -1,4 +1,4 @@
-alert("21 Nov ❤️❤️");
+alert("21 Nov ❤️❤️ click anywhere in the browser");
 var mylove = document.getElementById("myAudio");
 document.addEventListener("click",()=>{
     mylove.play();
