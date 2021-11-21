@@ -1,6 +1,6 @@
 alert("21 Nov ❤️❤️");
 var mylove = document.getElementById("myAudio");
-window.addEventListener("click",()=>{
+document.addEventListener("click",()=>{
     mylove.play();
     
 })
